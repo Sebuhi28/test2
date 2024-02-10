@@ -1,0 +1,198 @@
+body {
+    margin: 70px;
+    margin-top: 0px;
+}
+
+.divshop {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgsign {
+
+    width: 30px;
+    margin-top: 15px;
+}
+
+.divcarbon {
+    position: relative;
+    top: 9px;
+}
+
+.butsign {
+    position: relative;
+    bottom: 9px;
+    cursor: pointer;
+    background-color: white;
+    border: none;
+    font-size: 18px;
+}
+
+.hrheader {
+    width: 100%;
+}
+
+.butbaku {
+    border-radius: 10px;
+    border:1px solid rgb(255, 166, 77);
+    background-color: rgb(255, 166, 77);
+    margin-top: 20px;
+    width: 120px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.imglocation {
+    width: 18px;
+}
+
+.divbaku {
+    display: flex;
+    justify-content: space-between;
+}
+
+.spanbaku {
+    position: relative;
+    bottom: 5px;
+    font-size: 14px;
+}
+
+.bakusearch {
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 5px;
+    border-color: rgb(178, 178, 178);
+    margin-top: 20px;
+    height: 50px;
+    width: 250px;
+    position: relative;
+    left: 25px;
+}
+
+.imgsearch {
+    width: 18px;
+    height: 18px;
+    position: relative;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.navul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.navli {
+    margin-right: 13px;
+    margin-left: 13px;
+    position: relative;
+    right: 15px;
+    cursor: pointer;
+    color: grey;
+}
+
+.divsection1 {
+    display: flex;
+}
+
+.divsection2 {
+    width: 40%;
+}
+
+.divsection3 {
+    width: 60%;
+}
+
+.h3we {
+    font-size: 70px;
+    margin-top: 180px;
+    margin-left: 90px;
+}
+
+.spancool {
+    color: rgb(255, 166, 77);
+}
+
+.hrdashed {
+    border: 2px dashed;
+    color: rgb(255, 166, 77);
+}
+
+.divsection4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+} 
+
+.div4 {
+    width: 30%;
+    border: 1px solid rgb(178, 178, 178);
+    height: 200px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.imgsiri {
+    width: 96%;
+    margin: auto;
+    display: flex;
+}
+
+.h2section {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.hr2dashed {
+    width: 96%;
+    border: 2px dashed;
+    color: rgb(255, 166, 77);
+}
+
+.divsection5 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.div5 {
+    width: 17%;
+    border: 1px solid rgb(178, 178, 178);
+    border-radius: 10px;
+    height: 200px;
+}
+
+.footer1 {
+    margin-top: 30px;
+    background-color: rgba(64, 64, 64, 1);
+    display: flex;
+    height: 100px;
+}
+
+.h2footer {
+    color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.ulfooter {
+    color: white;
+    list-style: none;
+    display: flex;
+    margin: auto;
+}
+
+.lifooter {
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+.img1 {
+    width: 240px;
+}
+
+.img2 {
+    width: 227px;
+}
